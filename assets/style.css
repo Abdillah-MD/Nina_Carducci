@@ -19,7 +19,7 @@ body {
 }
 
 .top-header .name {
-	font-size: 26px;
+	width: 20%;
 }
 
 .nav ul {
@@ -358,6 +358,9 @@ input[type="submit"] {
 	}
 	.picture {
 		width: 80%;
+	}
+	.name {
+		width: 30%;
 	}
 }
 
